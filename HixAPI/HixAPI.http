@@ -1,0 +1,6 @@
+@HixAPI_HostAddress = http://localhost:5001
+
+GET {{HixAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
